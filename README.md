@@ -43,3 +43,5 @@ This repository is created and maintained by the team and the community of Hexle
 
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
+
+[![PHP CI](https://github.com/semyanskikh-im/hexlet-phpunit-/actions/workflows/workflow.yml/badge.svg)](https://github.com/semyanskikh-im/hexlet-phpunit-/actions/workflows/workflow.yml)
